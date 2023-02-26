@@ -1,0 +1,80 @@
+#h1{
+    color: black;
+    background-color: rgb(255, 196, 0);
+    padding-left: 500px;
+    padding-right: 600px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.header {
+    background: url(../rayosfondo.avif)
+    }
+
+
+.confialtura{
+    width: 100%;
+    height: 170px;
+}
+.footer{
+    background-color: yellow;
+    width: 100%;
+    height: 30px;
+}
+.formulario{
+    border-color: black;
+    border-top-style: 10px;
+    border-right-style: 30px;
+    border-bottom-style: 30px;
+    border-left-style: 30px;
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.lista{
+    list-style: none;
+    flex-direction: column;
+    
+    margin-right: 1408px;
+    margin-left: 8px;
+}
+.logo{
+    position: absolute;
+    bottom: 732px;
+    left: 1422px;
+    top: auto;
+    right: auto;
+    width: 200px;
+    
+    }
+.lista-columnas{
+    display: flex;
+}  
+#formulario2{
+    padding-right: 50px;
+}  
+#rayo{
+    position: absolute;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+.main{
+    background: url(../rayosfondo.avif);
+}
+.lista2{
+    list-style: none;
+}
+.titulo3{
+    background-color: rgb(255, 217, 0);
+    margin-left: 10px;
+    margin-right: 1110px;
+}
+.#lista3{
+    list-style: none;
+    background-color: rgb(255, 230, 0);
+}

@@ -1,0 +1,50 @@
+.foto1{
+    position: relative;
+    border-top-style: 10px;
+    border-right-style: 30px;
+    border-bottom-style: 30px;
+    border-left-style: 30px;
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+#foto3{
+    position: absolute;
+    border-top-style: 10px;
+    border-right-style: 30px;
+    border-bottom-style: 30px;
+    border-left-style: 30px;
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+#cartaperso{
+    position: relative;
+    bottom: 2px;
+    left: 15px;
+    top: auto;
+    right: auto;
+    width: 200px;
+}
+#cartaperso2{
+    position:sticky;
+    bottom: 13000px;
+    left: 20px;
+    top: 10px;
+    right: 20px;
+    width: 2900px;
+    height: 2px;
+   
+}
+#cartaperso3{
+    position: absolute;
+    bottom: 2px;
+    left: 330px;
+    top: 43vw;
+    right: auto;
+    width: 200px;
+    height: 100px;
+}
